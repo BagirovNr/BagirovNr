@@ -8,6 +8,6 @@
 
 -📫 You can reach me via WhatsApp at +994556680619.
 
-LinkedIn: bagirov.nr
+LinkedIn: https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit
 
-Instagram: bagirov.nr
+Instagram: https://www.instagram.com/bagirov.nr/
