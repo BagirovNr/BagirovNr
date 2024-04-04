@@ -1,5 +1,3 @@
-
-preview
 <h1 align="center">Hi 👋, I'm Nadir</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
