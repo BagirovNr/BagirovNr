@@ -9,15 +9,11 @@
 
 - 🌱 I’m currently learning **Next.js and React-Native**
 
-- 👯 I’m looking to collaborate on [...](...)
-
-- 🤝 I’m looking for help with [...](...)
+- 🤝 I'm looking for help in [learning pyton](https://www.python.org/)
 
 - 👨‍💻 All of my projects are available at [almostReady](almostReady)
 
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **nadirbagirov20@gmail.com**
+- 📫 How to reach me ** [nbagirovdev@gmail.com](nbagirovdev@gmail.com)**
 
 - ⚡ Fun fact **Haha, I'm funny. Okay, just kidding. I am hardworking, and I enjoy what I do.**
 
