@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [almostReady](almostReady)
 
-- 📫 How to reach me ** [nbagirovdev@gmail.com](nbagirovdev@gmail.com)**
+- 📫 How to reach me ** [nbagirovdev@gmail.com](https://mail.google.com/mail/u/1/?pli=1#inbox?compose=new)**
 
 - ⚡ Fun fact **Haha, I'm funny. Okay, just kidding. I am hardworking, and I enjoy what I do.**
 
