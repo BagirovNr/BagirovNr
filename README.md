@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bagirovnr" alt="bagirovnr" /></a> </p>
 
-- 🔭 I’m currently working on [...](https://github.com/BagirovNr/Portfolio)
+- 🔭 I’m currently working on [my Portfolio](https://github.com/BagirovNr/Portfolio)
 
 - 🌱 I’m currently learning **Next.js and React-Native**
 
