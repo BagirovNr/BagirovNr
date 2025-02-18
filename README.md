@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Next.js and React-Native**
 
-- 🤝 I'm looking for help in [learning pyton](https://www.python.org/)
-
 - 👨‍💻 All of my projects are available at [almostReady](almostReady)
 
 - 📫 How to reach me ** [nbagirovdev@gmail.com](https://mail.google.com/mail/u/1/?pli=1#inbox?compose=new)**
